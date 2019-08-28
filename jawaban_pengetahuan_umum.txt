@@ -1,0 +1,12 @@
+Jawaban Tugas Pertama
+1.	Version control adalah sebuah sistem yang mencatat setiap perubahan yang terjadi dalam sebuah berkas atau kumpulan berkas sehingga pada suatu saat kita bisa kembali ke salah satu versi berkas tersebut. Seperti contoh pada setiap anggota yang berada di dalam sebuah tim pengembangan software dapat menulis kode programnya masing - masing kemudian digabungkan ke server yang sudah memiliki VCS yang digunakan.
+2.	GIT adalah salah satu tool yang di gunakan untuk proses pengembangan software. Tugasnya adalah untuk mencatat setiap perubahan yang terjadi dalam suatu proyek dan menyimpannya ke dalam sebuah database.
+3.	Framework adalah suatu software yang di gunakan untuk mempermudah dalam membuat sebuah aplikasi dimana di dalamnya terdapat berbagai macam fitur/fungsi – fungsi dasar yang dapat di gunakan. 
+web framework adalah sebuah software kerangka kerja yang dapat membantu membuat dan mengembangkan situs web secara mudah dan cepat.
+macam-macam framework:
+codeigniter, symfony, cakephp, fuelphp, phalconphp
+4.	- REST (Representational State Trasfer) merupakan standar arsitektur berbasis web yang menggunakan protocol HTTP untuk berkomunikasi data.
+jadi bisa di bilang , REST itu adalah salah satu dari desain arsitektur di dalam API(Application Progamming Interface).
+- SQL (Structured Query Language) adalah sebuah Bahasa yang di gunakan untuk mengakses data dalam basis data relasional.
+- HTTP (Hyper Text Tranfer Protokol) adalah sebuah protocol lapisan aplikasi untuk mentransmisi dokumen hypermedia. seperti, HTML.
+- UI Framework merupakan toolkit/seperangkat tools yang berisi set komponen untuk membuat tampilan aplikasi mobile secara cepat dan mudah.
